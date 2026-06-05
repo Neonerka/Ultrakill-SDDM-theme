@@ -4,7 +4,7 @@ ULTRAKILL-themed SDDM login screen with video background, pixel font, and sessio
 
 ## Preview
 
-![Logo](logo.png)
+![Logo](photo_2026-06-05_10-10-17.jpg)
 
 ## Features
 
